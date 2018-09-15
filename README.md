@@ -2,19 +2,19 @@
 
 # acronyms
 
-ba = Bronze Age
-ia = Iron Age
-ema = Early Middle Age
-hma = High Middle Age
-lma = Late Middle Age
-ca = Colonial Age
-inda = Industrial Age
-pe = Progressive Era
-me = Modern Era
-pme = Post Modern Era
-ce = Contemporary Era
-te = Tomorrow
-fe = The Future
-af = Arctic Future
-of = Oceanic Future
-vf = Virtual Future
+ba = Bronze Age <br/>
+ia = Iron Age <br/>
+ema = Early Middle Age <br/>
+hma = High Middle Age <br/>
+lma = Late Middle Age <br/>
+ca = Colonial Age <br/>
+inda = Industrial Age <br/>
+pe = Progressive Era <br/>
+me = Modern Era <br/>
+pme = Post Modern Era <br/>
+ce = Contemporary Era <br/>
+te = Tomorrow <br/>
+fe = The Future <br/>
+af = Arctic Future <br/>
+of = Oceanic Future <br/>
+vf = Virtual Future <br/>
